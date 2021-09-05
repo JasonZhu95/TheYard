@@ -1,7 +1,6 @@
 # TheYard
 A website pitch to the creators of the Yard Podcast.  Implemented front-end development skills learned in college to pitch a website to get involved in my friends' activities in their creation of the Yard.  More of a personal project, but I coordinated with Ludwig and Slime to ask what they were looking for in a potential home page for their podcast.
-# How it Looks
-Click for Website Link
+# Click For Website Link
 [![Website Link](https://i.imgur.com/zPzJvXd.jpeg)](https://jasonzhu95.github.io/TheYard/)
 
 # Structure and Features
